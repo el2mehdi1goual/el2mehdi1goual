@@ -1,4 +1,24 @@
+👋 Hey, I’m El Mehdi.
 
+🎓 Engineering student in Computer Science & Networks (3IIR)
+🗄️ Data & Database Enthusiast
+⚙️ Backend-Focused Developer
+
+I’m passionate about understanding how systems work behind the scenes — especially databases and data structures. While I build web applications, what really excites me is working with SQL, designing efficient schemas, and optimizing data performance.
+
+💡 Technical Areas I Focus On
+
+Backend Development 
+
+Database Design & Optimization (MySQL, Oracle, MS SQL Server)
+
+Advanced SQL Queries & Data Modeling
+
+Python for data processing
+
+🚀 Beyond Code
+
+I also explore the business side of technology — managing websites, improving SEO performance, and understanding how digital platforms grow through data and strategy.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/elmehdi.goual/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/el.mehdi.goual/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/el-mehdi-goual-4485a9209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/goualelmehdi?s=21) 
 
