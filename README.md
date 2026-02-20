@@ -6,7 +6,7 @@
 
 I’m passionate about understanding how systems work behind the scenes — especially databases and data structures. While I build web applications, what really excites me is working with SQL, designing efficient schemas, and optimizing data performance.
 
-💡 Technical Areas I Focus On
+
 
 Backend Development 
 
