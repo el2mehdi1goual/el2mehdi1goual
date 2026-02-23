@@ -1,62 +1,48 @@
-👋 Hi, I’m El Mehdi
+# 👋 Hi, I’m El Mehdi
 
-🎓 Engineering Student in Computer Science & Networks (3IIR)
-🗄️ Data & Database Enthusiast
-⚙️ Backend-Focused Developer
+🎓 Engineering Student in Computer Science & Networks (3IIR)  
+🗄️ Data & Database Enthusiast  
+⚙️ Backend-Focused Developer  
 
-🧠 About Me
+---
 
-I’m passionate about understanding how systems work behind the scenes — especially databases, data structures, and backend architectures.
+## 🧠 About Me
 
-While I build web applications, what truly excites me is working with SQL, designing efficient database schemas, optimizing queries, and structuring data for performance and scalability.
+I’m passionate about understanding how systems work behind the scenes — especially databases and data structures.
 
-I enjoy thinking in terms of systems, logic, and data flow rather than just interfaces.
+While I build web applications, what really excites me is working with SQL, designing efficient schemas, and optimizing data performance.
 
-💡 Technical Focus
-⚙️ Backend Development
+---
 
-PHP (Symfony)
+## 💡 Technical Areas I Focus On
 
-Application architecture & business logic design
+### Backend Development
+- PHP (Symfony)
 
-🗄️ Databases & Data
+### Databases & Data
+- MySQL  
+- Oracle  
+- Microsoft SQL Server  
+- Advanced SQL queries  
+- Data modeling & schema design  
 
-MySQL
+### Data Processing
+- Python  
 
-Oracle
+---
 
-Microsoft SQL Server
+## 🚀 Beyond Code
 
-Advanced SQL queries (JOINs, subqueries, aggregation, procedures)
+I also explore the business side of technology:
+- Managing websites  
+- Improving SEO performance  
+- Understanding how digital platforms grow through data and strategy  
 
-Database design & normalization
+---
 
-Data modeling
+## 🎯 Career Goal
 
-
-🚀 Beyond Code
-
-I also explore the business side of technology, including:
-
-Website management
-
-SEO optimization
-
-Digital growth strategies
-
-Understanding how data drives online platforms
-
-I’m particularly interested in the intersection between data, systems, and business decision-making.
-
-🎯 Career Direction
-
-My long-term goal is to build a strong career in:
-
-📊 Data Analysis
-
-🗄️ Data-Oriented Engineering
-
-Backend & Database Systems
+Aspiring to work in data-driven roles such as Data Analyst or database-focused engineering positions.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://web.facebook.com/elmehdi.goual/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/el.mehdi.goual/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/el-mehdi-goual-4485a9209?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/goualelmehdi?s=21) 
 
